@@ -86,7 +86,7 @@
 
 这样，之后输入命令`%!xxd -r -p`即可。
 
-![bin](D:\code\LC-3\bin.png)
+![bin](../assets/bin.png)
 
 ### 测试
 
